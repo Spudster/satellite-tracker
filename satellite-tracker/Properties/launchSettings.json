@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "satellite-tracker": {
+      "commandName": "Project",
+      "commandLineArgs": "test"
+    }
+  }
+}
